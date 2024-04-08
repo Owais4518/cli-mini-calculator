@@ -1,0 +1,18 @@
+{
+  "name": "cli mini calculator",
+  "version": "1.0.0",
+  "description": "this is cli mini calculator using inquirer library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "owais cli project",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
